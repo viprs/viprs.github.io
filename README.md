@@ -1,5 +1,6 @@
 你好，我是牛棚锁思。你可以关注微信公众号：牛棚锁思（bull_think）获得更多信息。
 
+https://www.ximalaya.com/thirdparty/player/album/player.html?id=7474857&type=red
 
 ### Web自动化教学工具
 
