@@ -1,8 +1,9 @@
 
 你好，我是牛棚锁思。你可以关注微信公众号：牛棚锁思（bull_think）获得更多信息。
+
 ![qrcode_for_bull_think](imgs/qrcode_for_bull_think.jpg)
 
-### 热播节目
+### 正在热播节目
 
 喜马拉雅热播节目[《软件测试工程师求职面试系列》](https://www.ximalaya.com/jiaoyu/7474857/)，已更新至26集。
 
@@ -16,9 +17,9 @@
 
 [ChromeDriver下载地址，需科学上网](http://chromedriver.storage.googleapis.com/index.html)  ——替代方法——>       [淘宝镜像下载网站](https://npm.taobao.org/mirrors/chromedriver/)
 
-[Chrome与ChromeDriver版本映射官方说明](https://npm.taobao.org/mirrors/chromedriver/2.39/notes.txt)
+[Chrome与ChromeDriver版本映射官方说明](https://npm.taobao.org/mirrors/chromedriver/2.44/notes.txt)
 
-[Firefox的GeckoDriver官方发布地址](https://github.com/mozilla/geckodriver/releases)
+[Firefox的GeckoDriver官方发布地址](https://github.com/mozilla/geckodriver/releases) 2018-11-19日更新
 
 [Windows Edge Driver官方发布地址](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
@@ -46,6 +47,6 @@
 
 ### 支持与联系
 
-使用问题请联系 [@牛棚锁思](mailto:viprs@qq.com) 邮箱：viprs@qq.com，QQ：1146009864
+使用问题请邮件联系 [@牛棚锁思](mailto:viprs@qq.com) 邮箱：viprs@qq.com，QQ：1146009864
 
 
