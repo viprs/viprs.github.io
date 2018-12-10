@@ -1,6 +1,8 @@
 你好，我是牛棚锁思。你可以关注微信公众号：牛棚锁思（bull_think）获得更多信息。
 
-https://www.ximalaya.com/thirdparty/player/album/player.html?id=7474857&type=red
+### 热播节目
+
+喜马拉雅热播节目[《软件测试工程师求职面试系列》](https://www.ximalaya.com/jiaoyu/7474857/)，已更新至26集。
 
 ### Web自动化教学工具
 
