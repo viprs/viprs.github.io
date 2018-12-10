@@ -1,4 +1,6 @@
+
 你好，我是牛棚锁思。你可以关注微信公众号：牛棚锁思（bull_think）获得更多信息。
+![qrcode_for_bull_think](imgs/qrcode_for_bull_think.jpg)
 
 ### 热播节目
 
@@ -45,3 +47,5 @@
 ### 支持与联系
 
 使用问题请联系 [@牛棚锁思](mailto:viprs@qq.com) 邮箱：viprs@qq.com，QQ：1146009864
+
+
