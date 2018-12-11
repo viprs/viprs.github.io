@@ -19,7 +19,7 @@
 
 [Chrome与ChromeDriver版本映射官方说明](https://npm.taobao.org/mirrors/chromedriver/2.44/notes.txt)
 
-[Firefox的GeckoDriver官方发布地址](https://github.com/mozilla/geckodriver/releases) 2018-11-19日更新
+[Firefox的GeckoDriver官方发布地址](https://github.com/mozilla/geckodriver/releases) 2018-12-10日更新
 
 [Windows Edge Driver官方发布地址](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
