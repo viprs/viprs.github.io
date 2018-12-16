@@ -3,7 +3,7 @@
 
 ![qrcode_for_bull_think](imgs/qrcode_for_bull_think.jpg)
 
-### 正在热播节目
+### 正在热播音频节目
 
 喜马拉雅热播节目[《软件测试工程师求职面试系列》](https://www.ximalaya.com/jiaoyu/7474857/)，已更新至26集。
 
@@ -33,6 +33,8 @@
 
 [Postman官网](https://www.getpostman.com/)
 
+[Postman断言使用方法](https://learning.getpostman.com/docs/postman/scripts/test_examples/)
+
 [Jmeter官网](http://jmeter.apache.org/)
 
 #### 开源库
@@ -41,9 +43,11 @@
 
 [Requests官方中文文档](http://docs.python-requests.org/zh_CN/latest/)
 
+[接口例子](http://httpbin.org)
+
 ### App测试教学工具
 
-[啄木鸟app](在此处添加下载链接)
+[腾讯GT 随身调](https://gt.qq.com)
 
 ### 支持与联系
 
