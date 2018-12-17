@@ -7,6 +7,10 @@
 
 喜马拉雅热播节目[《软件测试工程师求职面试系列》](https://www.ximalaya.com/jiaoyu/7474857/)，已更新至26集。
 
+### 面试攻略
+
+[《破解软件测试面试：道与术》](https://viprs.github.io/gitbook_crack_interview/)
+
 ### Web自动化教学工具
 
 [Xpath和CSS学习小游戏](xpath_css)
