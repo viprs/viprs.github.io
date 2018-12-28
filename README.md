@@ -53,6 +53,8 @@
 
 [腾讯GT 随身调](https://gt.qq.com)
 
+[腾讯WeTest](http://wetest.qq.com/cube/)
+
 ### 支持与联系
 
 使用问题请邮件联系 [@牛棚锁思](mailto:viprs@qq.com) 邮箱：viprs@qq.com，QQ：1146009864
